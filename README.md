@@ -1,6 +1,6 @@
-# Linear-Algebra
+# Linear Algebra
 
-Mathmatics for Machine Learning by IMPERIAL COLLEGE OF LONDON available at Coursera
+Mathmatics for Machine Learning Specialization by Imperial College of London available at Coursera
 
 # Instructions
 
