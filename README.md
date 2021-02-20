@@ -1,8 +1,10 @@
 # Linear-Algebra
 
-When coding or solving data analysis problems, one problem that can  occur is if your code encounters a special matrix that isn't invertible,  or has an infinite number of eigenvectors, or similar. On other  occasions, for example where you are reducing dimensionality, that might  even be desirable!  So here you will find a code fragment that traps  for different types of special matrices before calling the python  inversion routine, and classifies the type of special case encountered.  
+Mathmatics for Machine Learning by IMPERIAL COLLEGE OF LONDON available at Coursera
 
 # Instructions
+
+When coding or solving data analysis problems, one problem that can  occur is if your code encounters a special matrix that isn't invertible,  or has an infinite number of eigenvectors, or similar. On other  occasions, for example where you are reducing dimensionality, that might  even be desirable!  So here you will find a code fragment that traps  for different types of special matrices before calling the python  inversion routine, and classifies the type of special case encountered.  
 
 This function tests if a 4×4 matrix is singular, i.e. to determine if an inverse exists, before calculating it.
 
