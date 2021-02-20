@@ -12,12 +12,9 @@ We use the method of converting a matrix to echelon form, and testing if this fa
 
 In the numpy package in Python, matrices are indexed using zero for the top-most column and left-most row. I.e., the matrix structure looks like this:
 
-A[0, 0]  A[0, 1]  A[0, 2]  A[0, 3]
-
-A[1, 0]  A[1, 1]  A[1, 2]  A[1, 3]
-
-A[2, 0]  A[2, 1]  A[2, 2]  A[2, 3]
-
+A[0, 0]  A[0, 1]  A[0, 2]  A[0, 3]<br />
+A[1, 0]  A[1, 1]  A[1, 2]  A[1, 3]<br />
+A[2, 0]  A[2, 1]  A[2, 2]  A[2, 3]<br />
 A[3, 0]  A[3, 1]  A[3, 2]  A[3, 3]
 
 You can access the value of each element individually using,
